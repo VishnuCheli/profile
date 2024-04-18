@@ -12,18 +12,18 @@ const Contact = () => {
                 </div>
                 <input name="Name" className='placeholder-gray-500 bg-[#ccd6f6] p-2 hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='Name *'/>
                 <input name="Email" className='my-4 p-2 placeholder-gray-600 bg-[#ccd6f6] hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='E-mail *'/>
-                <textarea name='Message' className='bg-[#ccd6f6] placeholder-gray-600 p-2 hover:bg-pink-50 hover:bg-opacity-95' rows="10" placeholder='Message *'></textarea>
+                <textarea name='Message' className='bg-[#ccd6f6] placeholder-gray-600 p-2 hover:bg-pink-50 hover:bg-opacity-95' rows="7" placeholder='Message *'></textarea>
                 <button className='text-white border-2 hover:bg-pink-400 hover:border-pink-400 px-4 py-3 mx-auto my-6'>Send</button>
             </form>
             <div className='flex flex-col w-full items-center md:items-start'>
                 <div className='pb-12 '>
                     <p className='text-4xl font-bold inline border-b-4 border-pink-400 text-gray-300'>Contact Information</p>
                 </div>
-                <div className='bg-[#ccd6f6] p-2 flex w-[300px]'>
-                    <span className='inline-block'>
-                    <p className='font-bold'><span >Current Location:</span> Fairfax, Virginia, USA </p>
-                    <p className='my-4 font-bold'><span>Phone:</span> 7033324907</p>
-                    <p className='font-bold'><span>Email:</span> vishnucheliyan@gmail.com</p>
+                <div className='bg-[#ccd6f6] p-2 flex '>
+                    <span className='inline-block text-lg'>
+                    <p className=''><span >Current Location:</span> Fairfax, Virginia, USA </p>
+                    <p className='my-4 '><span>Phone:</span> 7033324907</p>
+                    <p className=''><span>Email:</span> vishnucheliyan@gmail.com</p>
                     </span>
                 </div>
             </div>
