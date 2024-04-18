@@ -10,9 +10,9 @@ const Contact = () => {
                     <p className='text-4xl font-bold inline border-b-4 border-pink-400 text-gray-300'>Contact Form</p>
                     <p className='text-gray-300 pt-3 pb-2'>( Contact me through this form )</p>
                 </div>
-                <input name="Name" className='placeholder-gray-500 bg-[#ccd6f6] p-2 hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='Name *'/>
-                <input name="Email" className='my-4 p-2 placeholder-gray-600 bg-[#ccd6f6] hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='E-mail *'/>
-                <textarea name='Message' className='bg-[#ccd6f6] placeholder-gray-600 p-2 hover:bg-pink-50 hover:bg-opacity-95' rows="7" placeholder='Message *'></textarea>
+                <input required name="Name" className='placeholder-gray-500 bg-[#ccd6f6] p-2 hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='Name *'/>
+                <input required name="Email" className='my-4 p-2 placeholder-gray-600 bg-[#ccd6f6] hover:bg-pink-50 hover:bg-opacity-95' type="text" placeholder='E-mail *'/>
+                <textarea required name='Message' className='bg-[#ccd6f6] placeholder-gray-600 p-2 hover:bg-pink-50 hover:bg-opacity-95' rows="7" placeholder='Message *'></textarea>
                 <button className='text-white border-2 hover:bg-pink-400 hover:border-pink-400 px-4 py-3 mx-auto my-6'>Send</button>
             </form>
             <div className='flex flex-col w-full items-center md:items-start'>
