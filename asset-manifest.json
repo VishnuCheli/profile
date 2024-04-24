@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.0b48924e.css",
-    "main.js": "/profile/static/js/main.4d94c44f.js",
+    "main.css": "/profile/static/css/main.4894cce7.css",
+    "main.js": "/profile/static/js/main.d704342d.js",
     "static/media/Vishnu_Neduncheliyan_resume.pdf": "/profile/static/media/Vishnu_Neduncheliyan_resume.687655719cefcb5743dd.pdf",
     "static/media/workImg.jpeg": "/profile/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
     "static/media/vn-high-resolution-logo-transparent.png": "/profile/static/media/vn-high-resolution-logo-transparent.04b7aab38583ecf3d623.png",
@@ -15,11 +15,11 @@
     "static/media/css.png": "/profile/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/profile/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/profile/index.html",
-    "main.0b48924e.css.map": "/profile/static/css/main.0b48924e.css.map",
-    "main.4d94c44f.js.map": "/profile/static/js/main.4d94c44f.js.map"
+    "main.4894cce7.css.map": "/profile/static/css/main.4894cce7.css.map",
+    "main.d704342d.js.map": "/profile/static/js/main.d704342d.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b48924e.css",
-    "static/js/main.4d94c44f.js"
+    "static/css/main.4894cce7.css",
+    "static/js/main.d704342d.js"
   ]
 }
