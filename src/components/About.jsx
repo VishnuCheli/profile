@@ -61,7 +61,7 @@ const About = () => {
             </p>
 
             <p>
-              I am passionate about automation, AI integration, and cybersecurity, 
+              I am passionate about automation, AI integration, and data science, 
               always eager to explore scalable and efficient solutions.
             </p>
           </div>
