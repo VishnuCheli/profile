@@ -7,7 +7,7 @@ const Work = () => {
         {/* container */}
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full '>
            <div>
-                <p className='text-3xl font-bold inline border-b-4 border-pink-400'>Work</p>
+                <p className='text-3xl font-bold inline border-b-4 border-[#82d0cb]'>Work</p>
                 <p className='py-6'>Recent work:</p>
            </div>
            {/* grid item */}

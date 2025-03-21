@@ -9,14 +9,14 @@ const Home = () => {
       {/*container*/}
 
       <div className = 'max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
-        <p className='text-pink-300'> Hello, my name is</p>
-        <h1 className='text-3xl sm:text-4xl font-bold text-[#ccd6f6]'>Vishnu Neduncheliyan</h1>
-        <h2 className='text-3xl sm:text-4xl font-bold text-[#8892b0] '>Full Stack Developer</h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>I am a graduate student majoring in Computer Science at George Mason University, and I am currently looking for full-time opportunities in the software industry.</p>
+        <p className='text-[#66FCF1]'> Hello, my name is</p>
+        <h1 className='text-3xl sm:text-4xl font-bold text-[#ffff]'>Vishnu Neduncheliyan</h1>
+        <h2 className='text-3xl sm:text-4xl font-bold text-[#99999a] '>[Software Developer]</h2>
+        <p className='text-[#c6c6c7] py-4 max-w-[700px]'>With a Master’s in Computer Science from George Mason University, I specialize in data engineering, AI model training, and full-stack development. Currently working remotely in the USA, I leverage Python, JavaScript, and cloud technologies to optimize data workflows and enhance application performance.</p>
         <div>
-        <Link to="work" smooth={true} duration={500}>
-          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-300 hover:border-pink-300'>
-            View Work
+        <Link to="experience" smooth={true} duration={500}>
+          <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#48ccc3] hover:border-[#48ccc3]'>
+            View Experience
           <span className='group-hover:rotate-90 duration-300'>
             <HiArrowNarrowRight className='ml-3'/>
             </span>
