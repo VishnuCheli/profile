@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.4894cce7.css",
-    "main.js": "/profile/static/js/main.d704342d.js",
-    "static/media/Vishnu_Neduncheliyan_resume.pdf": "/profile/static/media/Vishnu_Neduncheliyan_resume.687655719cefcb5743dd.pdf",
+    "main.css": "/profile/static/css/main.ef2bf9dc.css",
+    "main.js": "/profile/static/js/main.cbb31a2d.js",
+    "static/media/VIT.png": "/profile/static/media/VIT.048a472511fcd4c9cf64.png",
     "static/media/workImg.jpeg": "/profile/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
-    "static/media/vn-high-resolution-logo-transparent.png": "/profile/static/media/vn-high-resolution-logo-transparent.04b7aab38583ecf3d623.png",
     "static/media/react.png": "/profile/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/profile/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/node.png": "/profile/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/GMU.png": "/profile/static/media/GMU.5cb24bc26d0a6301475a.png",
     "static/media/mongo.png": "/profile/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/github.png": "/profile/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/profile/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/tailwind.png": "/profile/static/media/tailwind.e47ac876b8d4d0bba47a.png",
     "static/media/css.png": "/profile/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/gps.png": "/profile/static/media/gps.6a04ac9b0ed19a608e1d.png",
+    "static/media/email.png": "/profile/static/media/email.9d4fb065e6679439a9a3.png",
     "static/media/javascript.png": "/profile/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/profile/index.html",
-    "main.4894cce7.css.map": "/profile/static/css/main.4894cce7.css.map",
-    "main.d704342d.js.map": "/profile/static/js/main.d704342d.js.map"
+    "main.ef2bf9dc.css.map": "/profile/static/css/main.ef2bf9dc.css.map",
+    "main.cbb31a2d.js.map": "/profile/static/js/main.cbb31a2d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4894cce7.css",
-    "static/js/main.d704342d.js"
+    "static/css/main.ef2bf9dc.css",
+    "static/js/main.cbb31a2d.js"
   ]
 }
