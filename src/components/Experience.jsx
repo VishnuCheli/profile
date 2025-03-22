@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <div
       name="experience"
-      className="w-full h-screen bg-[#0a192f] text-gray-300 flex justify-center items-center py-8 pt-44"
+      className="w-full h-screen bg-[#0a192f] text-gray-300 flex justify-center items-center py-8"
     >
       {/* Container */}
       <div className="max-w-[1000px] mx-auto px-6 w-full">
