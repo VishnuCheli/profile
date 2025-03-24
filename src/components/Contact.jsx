@@ -40,7 +40,7 @@ const Contact = () => {
     {/* Location */}
     <div className='flex items-center gap-4'>
       <img src={LocationIcon} alt="Location Icon" className='w-10 h-10 bg-white rounded-full p-1' />
-      <p><span className="text-md">Fairfax, Virginia, USA</span></p>
+      <p><span className="text-md">Dallas, Texas, USA</span></p>
     </div>
 
     {/* Phone Number */}
